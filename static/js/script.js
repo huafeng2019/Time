@@ -54,7 +54,7 @@ $(function(){
   })
 
   $('.countdown').countdown({
-    until: new Date('January, 1, 2022') // you can add time optionally ('January, 1, 2022 00:00:00')
+    until: new Date('January, 1, 2023') // you can add time optionally ('January, 1, 2023 00:00:00')
   })
   $('.snow').snow({
     amount: 100 //Number of particles
